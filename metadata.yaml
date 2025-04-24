@@ -1,0 +1,25 @@
+_repo: A-little-Irish-girl_75934
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Callwell, J. M.
+    gutenberg_agent_id: '58225'
+    url: http://www.gutenberg.org/2009/agents/58225
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75934'
+language: en
+pgterms:marc905: 20250411154229callwell
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bBlackie & Son Limited, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A little Irish girl
+url: http://www.gutenberg.org/ebooks/75934
